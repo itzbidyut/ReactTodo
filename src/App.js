@@ -62,7 +62,7 @@ class App extends Component {
         <div className="row">
           <div className="col-10 mx-auto col-md-8 mt-2">
           <h2 className="display-2 m-3 pb-3 text-primary">Todo App</h2>
-
+<h1>new update</h1>
                 <TodoInput item={this.state.item}
                           handleChange={this.state.handleChange}
                           handleEdit={this.state.handleEdit}
